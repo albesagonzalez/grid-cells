@@ -14,5 +14,7 @@ results.m cals the different results functions in order to perform analysis on t
 
 The deformer.m file has some code for performing deformations in an initial state (dilations, rotations...)
 
+Most of the code for movie_maker.m file can be found in Mathworks forum.
+
 This was an academic project carried out during the month of February 2020.
 
