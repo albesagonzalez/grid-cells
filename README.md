@@ -12,7 +12,7 @@ The grid_cells.m script can either load an initial state saved in a .mat file or
 
 results.m cals the different results functions in order to perform analysis on the simulated activity of the network (in time or in snapshots depending on the function)
 
-the deformer.m file has some code for performing deformations in an initial state (dilations, rotations...)
+The deformer.m file has some code for performing deformations in an initial state (dilations, rotations...)
 
 This was an academic project carried out during the month of February 2020.
 
