@@ -2,7 +2,7 @@
 
 ## This is the code repository for a Practical Biomedical Modelling project, in the context of the Master of Science in Computational Neuroscience, Cognition and Artificial Intelligence at the University of Nottingham.
 
-The project is coded in MATLAB with a CPP backend for some matrix operations. 
+The project is coded in MATLAB with a CPP backend for some matrix operations. You can also find the final report submitted.
 
 The folder CPP_files contains the original .cpp files and COMPILED_CPP contains the compiled functions generated with MEX (compiler.m)
 The folder functions contains some MATLAB functions that the main scripts call.
